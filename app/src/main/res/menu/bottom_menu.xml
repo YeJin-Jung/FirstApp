@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id = "@+id/item_fragment1"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_alarm_24"
+        android:title="알람"/>
+
+    <item
+        android:id = "@+id/item_fragment2"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_bar_chart_24"
+        android:title="그래프보기"/>
+
+    <item
+        android:id = "@+id/item_fragment3"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_check_24"
+        android:title="혈당체크"/>
+
+    <item
+        android:id = "@+id/item_fragment4"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_fitness_center_24"
+        android:title="운동"/>
+
+    <item
+        android:id = "@+id/item_fragment5"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="설정"/>
+
+</menu>
