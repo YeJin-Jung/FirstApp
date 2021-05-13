@@ -1,5 +1,3 @@
 <resources>
-    <string name="app_name">FirstApp</string>
-    <!-- TODO: Remove or change this placeholder text -->
-
+    <string name="app_name">SecondApp</string>
 </resources>
